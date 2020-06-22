@@ -1,5 +1,6 @@
 # LSN_Exercises
 Note di compilazione ed esecuzione programmi:
+
 Per far girare i programmi in ogni cartella vi è un makefile, che basta far girare con make Esercizio##.# (es: make Esercizio 09.1). Quasi tutti gli esericizi hanno eseguibili diversi, che si chiamano come detto sopra. Come da richiesta non ho creato sotto coartelle, quindi mi scuso se alcune cartelle sono leggermente confuse, a causa dei numerosi file di output. I jupyter-notebook si trovano tutti sotto il nome di Exercise##.ipynb (sono in inglese).
 
 Altre note:
